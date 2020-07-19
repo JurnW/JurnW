@@ -8,7 +8,7 @@ If you'd like help with your next project, shoot me an email at hello@jurn.io
 ### Writing
 I enjoy writing and regularly publish guest posts whenever I'm not writing for my own blog  
 CSS-Tricks - [Let’s Make One of Those Fancy Scrolling Animations Used on Apple Product Pages](https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/)  
-FreeCodeCamp - [How I Built my Side Project and Got 31,000 Users the First Week](https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/) 
+FreeCodeCamp - [How I Built my Side Project and Got 31,000 Users the First Week](https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/)   
 UX Collective - [Mastering Animations in Figma by Building 7 Common UI Animations](https://uxdesign.cc/mastering-animations-in-figma-with-7-simple-demos-204106bff310) 
 
 
