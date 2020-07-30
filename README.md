@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./banner.svg" width="800" height="400">
+	<img src="https://github.com/JurnW/JurnW/blob/master/banner.svg" width="800" height="400">
 </div>
 
 ### I’m Jurn, a designer who codes
