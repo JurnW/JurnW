@@ -1,3 +1,7 @@
+<div align="center">
+	<img src="../banner.svg" width="800" height="400">
+</div>
+
 ### I’m Jurn, a designer who codes
 I am a (remote) freelance designer and front-end developer with 6 years experience working for startups to publicly traded multinationals and companies in between.
 
