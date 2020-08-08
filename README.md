@@ -25,6 +25,7 @@ If you'd like help with your next project, shoot me an email at hello@jurn.io
 
 <br />
 <br />
+<br />
 
 ## Writing
 
@@ -37,6 +38,8 @@ I enjoy writing and apart from my own blog I have also written for [CSS Tricks][
 - [Mastering Animations in Figma by Building 7 Common UI Animations](https://blog.jurn.io/figma-animation-examples/)
 - [The Best Way to Accept Payments for Remote Freelancers](https://blog.jurn.io/accepting-payments-remote-freelancer/)
 <!-- BLOG-POST-LIST:END -->
+
+<br />
 
 ### Connect with me:
 [<img align="left" alt="www.jurn.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.jurn.io/)
