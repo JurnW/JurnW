@@ -2,7 +2,7 @@
   <img src="https://github.com/JurnW/JurnW/blob/master/banner.svg" width="800" height="400">
 </div>
 
-### I’m Jurn, a designer who codes
+## I’m Jurn, a designer who codes
 
 I am a (remote) freelance designer and front-end developer with 6 years of experience. Whenever I'm not working with clients I work on my own products and side-projects such as [Screely](https://screely.com) and [VloggingPro](https://vloggingpro.com) (sold)
 
@@ -26,7 +26,7 @@ If you'd like help with your next project, shoot me an email at hello@jurn.io
 <br />
 <br />
 
-### Writing
+## Writing
 
 I enjoy writing and apart from my own blog I have also written for [CSS Tricks][csstricks], [FreeCodeCamp][freecodecamp] and [UX Collective][uxcollective]. Here are my 5 most recent articles:
 
@@ -38,16 +38,11 @@ I enjoy writing and apart from my own blog I have also written for [CSS Tricks][
 - [The Best Way to Accept Payments for Remote Freelancers](https://blog.jurn.io/accepting-payments-remote-freelancer/)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-<br />
-
 ### Connect with me:
-
 [<img align="left" alt="www.jurn.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.jurn.io/)
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jurn_w)
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jurnvanwissen/)
 
-<br />
 
 [csstricks]: https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/
 [freecodecamp]: https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/
