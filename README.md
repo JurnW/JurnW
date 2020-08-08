@@ -33,6 +33,11 @@ If you'd like help with your next project, shoot me an email at hello@jurn.io
 I enjoy writing and apart from my own blog I have also written for [CSS Tricks][csstricks], [FreeCodeCamp][freecodecamp] and [UX Collective][uxcollective]. Here are my 5 most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Figma Community Profile Banner [Free Template]](https://blog.jurn.io/figma-profile-banner/)
+- [How to Create a Custom Thumbnail in Figma [Free Template]](https://blog.jurn.io/figma-thumbnail-template/)
+- [How to Make Gifs 95% Smaller for Blog Posts](https://blog.jurn.io/making-gifs-smaller/)
+- [Mastering Animations in Figma by Building 7 Common UI Animations](https://blog.jurn.io/figma-animation-examples/)
+- [The Best Way to Accept Payments for Remote Freelancers](https://blog.jurn.io/accepting-payments-remote-freelancer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
