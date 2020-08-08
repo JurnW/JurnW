@@ -4,9 +4,7 @@
 
 ### I’m Jurn, a designer who codes
 
-I am a (remote) freelance designer and front-end developer with 6 years experience working for startups to publicly traded multinationals and companies in between.
-
-Whenever I'm not working with clients I work on my own products and side-projects such as [Screely](https://screely.com) and [VloggingPro](https://vloggingpro.com) (sold)
+I am a (remote) freelance designer and front-end developer with 6 years of experience. Whenever I'm not working with clients I work on my own products and side-projects such as [Screely](https://screely.com) and [VloggingPro](https://vloggingpro.com) (sold)
 
 If you'd like help with your next project, shoot me an email at hello@jurn.io
 
@@ -22,7 +20,7 @@ If you'd like help with your next project, shoot me an email at hello@jurn.io
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
 <br />
@@ -34,6 +32,9 @@ I enjoy writing and apart from my own blog I have also written for [CSS Tricks][
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br />
+<br />
 
 ### Connect with me:
 
