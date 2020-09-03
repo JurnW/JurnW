@@ -29,7 +29,7 @@ If you'd like help with your next project, shoot me an email at hello@jurn.io
 
 ## Writing
 
-I enjoy writing and apart from my own blog I have also written for [CSS Tricks][csstricks], [FreeCodeCamp][freecodecamp] and [UX Collective][uxcollective]. Here are my 5 most recent articles:
+I enjoy writing and apart from my own blog I have also written for [CSS Tricks][csstricks], [FreeCodeCamp][freecodecamp], [Smashing Magazine][smashingmagazine] and [UX Collective][uxcollective]. Here are my 5 most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Creating a Figma Community Profile Banner [Free Template]](https://blog.jurn.io/figma-profile-banner/)
@@ -48,5 +48,6 @@ I enjoy writing and apart from my own blog I have also written for [CSS Tricks][
 
 
 [csstricks]: https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/
-[freecodecamp]: https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/
+[freecodecamp]: https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/  
+[smashingmagazine]: https://www.smashingmagazine.com/2020/09/figma-developers-guide/
 [uxcollective]: https://uxdesign.cc/mastering-animations-in-figma-with-7-simple-demos-204106bff310
