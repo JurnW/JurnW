@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/JurnW/JurnW/blob/master/banner.svg" width="800" height="400">
-</div>
-
 ## I’m Jurn, a designer who codes
 
 I am a (remote) freelance designer and front-end developer with 6 years of experience. Whenever I'm not working with clients I work on my own products and side-projects such as [Screely](https://screely.com) and [VloggingPro](https://vloggingpro.com) (acq'd)
