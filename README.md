@@ -5,8 +5,6 @@ I am a (remote) freelance designer and front-end developer with 6 years of exper
 If you'd like help with your next project, shoot me an email at hello@jurn.io
 
 <br />
-<br />
-<br />
 
 ## Writing
 
