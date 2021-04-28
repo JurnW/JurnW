@@ -4,7 +4,6 @@ I am a (remote) freelance designer and front-end developer with 6 years of exper
 
 If you'd like help with your next project, shoot me an email at hello@jurn.io
 
-<br />
 
 ## Writing
 
@@ -18,7 +17,6 @@ I enjoy writing and apart from my own blog I have also written for [CSS Tricks][
 - [Creating a Figma Community Profile Banner [Free Template]](https://blog.jurn.io/figma-profile-banner/)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
 
 ### Connect with me:
 [<img align="left" alt="www.jurn.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.jurn.io/)
