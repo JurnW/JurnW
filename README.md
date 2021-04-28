@@ -25,7 +25,7 @@ If you'd like help with your next project, shoot me an email at hello@jurn.io
 
 ## Writing
 
-I enjoy writing and apart from my own blog I have also written for [CSS Tricks][csstricks], [FreeCodeCamp][freecodecamp], [Smashing Magazine][smashingmagazine] and [UX Collective][uxcollective]. Here are my 5 most recent articles:
+I enjoy writing and apart from my own blog I have also written for [CSS Tricks][csstricks], [FreeCodeCamp][freecodecamp], [Honeypot][honeypot], [Smashing Magazine][smashingmagazine], and [UX Collective][uxcollective]. Here are my 5 most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Learning a New Language in 6 Months](https://blog.jurn.io/faster-language-learning/)
@@ -45,5 +45,6 @@ I enjoy writing and apart from my own blog I have also written for [CSS Tricks][
 
 [csstricks]: https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/
 [freecodecamp]: https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/  
+[honeypot]: https://cult.honeypot.io/reads/how-to-create-a-side-project-that-gets-you-noticed  
 [smashingmagazine]: https://www.smashingmagazine.com/2020/09/figma-developers-guide/
 [uxcollective]: https://uxdesign.cc/mastering-animations-in-figma-with-7-simple-demos-204106bff310
