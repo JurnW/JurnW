@@ -10,11 +10,11 @@ If you'd like help with your next project, shoot me an email at hello@jurn.io
 I enjoy writing and apart from my own blog I have also written for [CSS Tricks][csstricks], [FreeCodeCamp][freecodecamp], [Honeypot][honeypot], [Smashing Magazine][smashingmagazine], and [UX Collective][uxcollective]. Here are my 5 most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [QuestionJar](https://blog.jurn.io/questionjar/)
 - [Learning a New Language in 6 Months](https://blog.jurn.io/faster-language-learning/)
 - [My 2021 Goals](https://blog.jurn.io/2021-goals/)
 - [Smart End of Year Business Expenses to Pay Less Tax](https://blog.jurn.io/business-expenses/)
 - [Everything Developers Need To Know About Figma](https://blog.jurn.io/everything-developers-need-to-know-about-figma/)
-- [Creating a Figma Community Profile Banner [Free Template]](https://blog.jurn.io/figma-profile-banner/)
 <!-- BLOG-POST-LIST:END -->
 
 
