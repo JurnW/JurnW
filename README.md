@@ -1,8 +1,8 @@
 ## I’m Jurn, a designer who codes
 
-I am a (remote) freelance designer and front-end developer with 6 years of experience. Whenever I'm not working with clients I work on my own products and side-projects such as [Screely](https://screely.com), [QuestionJar](https://www.questionjar.com) and [VloggingPro](https://vloggingpro.com) (acq'd)
+I am a (remote) freelance designer and front-end developer. Apart from client work I also work on my own projects such as [Screely](https://screely.com), [QuestionJar](https://www.questionjar.com) and [VloggingPro](https://vloggingpro.com) (acq'd)
 
-If you'd like help with your next project, shoot me an email at hello@jurn.io
+If you'd like help with your next project, shoot me an email at contact@jurn.io
 
 
 ## Writing
