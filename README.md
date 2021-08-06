@@ -10,11 +10,11 @@ If you'd like help with your next project, shoot me an email at contact@jurn.io
 I enjoy writing and apart from my own blog I have also written for [CSS Tricks][csstricks], [FreeCodeCamp][freecodecamp], [Honeypot][honeypot], [Smashing Magazine][smashingmagazine], and [UX Collective][uxcollective]. Here are my 5 most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Personal Website Redesign](https://blog.jurn.io/redesign-2021/)
 - [How I Get My House Chores Done in Half the Time](https://blog.jurn.io/house-chores/)
 - [Partial WFH – All Downsides, No Benefits](https://blog.jurn.io/partial-wfh/)
 - [Learning a New Language in 6 Months](https://blog.jurn.io/faster-language-learning/)
 - [My 2021 Goals](https://blog.jurn.io/2021-goals/)
-- [Smart End of Year Business Expenses to Pay Less Tax](https://blog.jurn.io/business-expenses/)
 <!-- BLOG-POST-LIST:END -->
 
 
