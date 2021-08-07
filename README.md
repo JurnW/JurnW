@@ -13,8 +13,8 @@ I enjoy writing and apart from my own blog I have also written for [CSS Tricks][
 - [Personal Website Redesign](https://blog.jurn.io/redesign-2021/)
 - [How I Get My House Chores Done in Half the Time](https://blog.jurn.io/house-chores/)
 - [Partial WFH – All Downsides, No Benefits](https://blog.jurn.io/partial-wfh/)
+- [AppSumo](https://blog.jurn.io/appsumo/)
 - [Learning a New Language in 6 Months](https://blog.jurn.io/faster-language-learning/)
-- [My 2021 Goals](https://blog.jurn.io/2021-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 
