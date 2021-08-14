@@ -7,7 +7,9 @@ If you'd like help with your next project, shoot me an email at contact@jurn.io
 
 ## Writing
 
-I enjoy writing and apart from my own blog I have also written for [CSS Tricks][csstricks], [FreeCodeCamp][freecodecamp], [Honeypot][honeypot], [Smashing Magazine][smashingmagazine], and [UX Collective][uxcollective]. Here are my 5 most recent articles:
+I enjoy writing both technical and non-technical articles. My articles have also been published on [CSS Tricks][csstricks], [Smashing Magazine][smashingmagazine], [The Next Web][thenextweb], [UX Collective][uxcollective], [FreeCodeCamp][freecodecamp], and company publications from [Honeypot][honeypot] and [LogRocket][logrocket].
+
+Here are my 5 most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Personal Website Redesign](https://blog.jurn.io/redesign-2021/)
@@ -25,7 +27,9 @@ I enjoy writing and apart from my own blog I have also written for [CSS Tricks][
 
 
 [csstricks]: https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/
-[freecodecamp]: https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/  
+[freecodecamp]: https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/
+[thenextweb]: https://thenextweb.com/news/developer-side-project-syndication
 [honeypot]: https://cult.honeypot.io/reads/how-to-create-a-side-project-that-gets-you-noticed  
+[logrocket]: https://blog.logrocket.com/adding-amp-components-to-next-js-webpage/
 [smashingmagazine]: https://www.smashingmagazine.com/2020/09/figma-developers-guide/
 [uxcollective]: https://uxdesign.cc/mastering-animations-in-figma-with-7-simple-demos-204106bff310
