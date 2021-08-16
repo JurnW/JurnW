@@ -12,7 +12,7 @@ I enjoy writing both technical and non-technical articles. My articles have also
 Here are my 5 most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Website Redesign](https://blog.jurn.io/redesign-2021/)
+- [Redesigning jurn.io](https://blog.jurn.io/redesign-2021/)
 - [How I Get My House Chores Done in Half the Time](https://blog.jurn.io/house-chores/)
 - [Partial WFH – All Downsides, No Benefits](https://blog.jurn.io/partial-wfh/)
 - [Learning a New Language in 6 Months](https://blog.jurn.io/faster-language-learning/)
