@@ -12,11 +12,11 @@ I enjoy writing both technical and non-technical articles. My articles have also
 Here are my 5 most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [The 4 Hour Workday](https://blog.jurn.io/four-hour-workday/)
 - [Redesigning jurn.io](https://blog.jurn.io/redesign-2021/)
 - [How I Get My House Chores Done in Half the Time](https://blog.jurn.io/house-chores/)
 - [Partial WFH – All Downsides, No Benefits](https://blog.jurn.io/partial-wfh/)
 - [Learning a New Language in 6 Months](https://blog.jurn.io/faster-language-learning/)
-- [My 2021 Goals](https://blog.jurn.io/2021-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 
