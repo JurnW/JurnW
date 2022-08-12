@@ -1,6 +1,6 @@
 ## Hi, I’m Jurn
 
-I am a designer and coder working as a growth engineer at [VEED.io](https://www.veed.io). Serial side-project shipper ([Screely](https://screely.com), [QuestionJar](https://www.questionjar.com) and [VloggingPro](https://vloggingpro.com) (acq'd)) and also freelance occasionally for really cool projects.
+I am a Growth Product Manager and (interim) Engineering Manager at [VEED.io](https://www.veed.io). Serial side-project shipper ([Screely](https://screely.com), [QuestionJar](https://www.questionjar.com) and [VloggingPro](https://vloggingpro.com) (acq'd)).
 
 Want to get in touch? Shoot me an email at contact@jurn.io
 
