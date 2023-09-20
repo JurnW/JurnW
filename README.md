@@ -1,13 +1,13 @@
 ## Hi, I’m Jurn
 
-I am a Growth Product Manager and (interim) Engineering Manager at [VEED.io](https://www.veed.io). Serial side-project shipper ([Screely](https://screely.com), [QuestionJar](https://www.questionjar.com) and [VloggingPro](https://vloggingpro.com) (acq'd)).
+I am a Senior Product Manager on the Monetization team at [VEED.io](https://www.veed.io) while building stuff on the side: [Konkai](https://www.konkai.health), [Screely](https://screely.com) (acq'd),  and [VloggingPro](https://vloggingpro.com) (acq'd).
 
 Want to get in touch? Shoot me an email at contact@jurn.io
 
 
 ## Writing
 
-I enjoy writing both technical and non-technical articles. My articles have also been published on [CSS Tricks][csstricks], [Smashing Magazine][smashingmagazine], [The Next Web][thenextweb], [UX Collective][uxcollective], [FreeCodeCamp][freecodecamp], and company publications from [Honeypot][honeypot] and [LogRocket][logrocket].
+My articles have also been published on [CSS Tricks][csstricks], [Smashing Magazine][smashingmagazine], [The Next Web][thenextweb], [UX Collective][uxcollective], [FreeCodeCamp][freecodecamp], and company publications from [Honeypot][honeypot] and [LogRocket][logrocket].
 
 Here are my 5 most recent articles:
 
