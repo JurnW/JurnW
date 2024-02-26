@@ -12,11 +12,11 @@ My articles have also been published on [CSS Tricks][csstricks], [Smashing Magaz
 Here are my 5 most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 4 Hour Workday](https://blog.jurn.io/four-hour-workday/)
-- [Redesigning jurn.io](https://blog.jurn.io/redesign-2021/)
-- [How I Get My House Chores Done in Half the Time](https://blog.jurn.io/house-chores/)
-- [Partial WFH – All Downsides, No Benefits](https://blog.jurn.io/partial-wfh/)
-- [Learning a New Language in 6 Months](https://blog.jurn.io/faster-language-learning/)
+- [Navigating Big Wins: A PM&#39;s Playbook for Complex Projects](https://www.jurn.io/navigating-big-wins/)
+- [Mastering Subscription Renewals in India](https://www.jurn.io/india-subscription-renewals/)
+- [The &quot;Day 1 or Day 100&quot; Framework: Choosing the Right Time to Ask Users to Pay](https://www.jurn.io/day-1-or-day-100-features/)
+- [Create Winning SaaS Pricing Plans with the Leader-Filler-Killer Framework](https://www.jurn.io/leader-killer-filler/)
+- [Building the Ultimate Remote Office in Thailand](https://www.jurn.io/ultimate-remote-office/)
 <!-- BLOG-POST-LIST:END -->
 
 
