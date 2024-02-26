@@ -1,9 +1,7 @@
-## Hi, I’m Jurn
+[![GitHub Streak]([https://streak-stats.demolab.com?user=DenverCoder1](https://streak-stats.demolab.com/?user=JurnW))](https://git.io/streak-stats)
 
-I am a Senior Product Manager on the Monetization team at [VEED.io](https://www.veed.io) while building stuff on the side: [Konkai](https://www.konkai.health), [Screely](https://screely.com) (acq'd),  and [VloggingPro](https://vloggingpro.com) (acq'd).
-
-Want to get in touch? Shoot me an email at contact@jurn.io
-
+- Monetization at Veed.io, 10x'ing our ARR by working on pricing, packaging, payments and retention
+- Building new projects monthly, aiming to reach 100k ARR by the end of 2024
 
 ## Writing
 
