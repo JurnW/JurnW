@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JurnW)](https://git.io/streak-stats)
 
 - Monetization at Veed.io, 10x'ing our ARR by working on pricing, packaging, payments and retention
-- Building new projects monthly, aiming to reach 100k ARR by the end of 2024
+- Building to reach 100k ARR
 
 ## Writing
 
