@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JurnW)](https://git.io/streak-stats)
 
 - Monetization at Veed.io, 10x'ing our ARR by working on pricing, packaging, payments and retention
-- Building to reach 100k ARR
+- Building to reach 100k ARR ([Konkai.health](https://www.konkai.health/) & [Paycheck.sh](https://paycheck.sh/))
 
 ## Writing
 
